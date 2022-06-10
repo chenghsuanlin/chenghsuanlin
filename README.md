@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sheny
+- 👋 Hi, I’m @Sheny (Cheng-Hsuan) Lin 
 - 👀 I’m interested in playing with dogs and watching Netflix
-- 🌱 I’m currently learning Python and getting more experience in qualitative UX research skills 
-- 💞️ I’m looking to collaborate on anything related to building a productivity product
+- 🌱 I’m currently learning Python and am aspired to conduct data analyses to solve UX problems
+- 💞️ I’m looking to accumulate more UX research experience (quant/qual)
 - 📫 How to reach me ...send me email at chlin7@illinois.edu
 
 <!---
